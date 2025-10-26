@@ -798,14 +798,51 @@ const submitQuiz = async () => {
         </p>
       </div>
 
-      <div className="bg-slate-700/50 rounded-xl p-4 border border-slate-600">
+       <div className="bg-slate-700/50 rounded-xl p-4 border border-slate-600">
         <h3 className="text-white font-bold mb-2">About</h3>
         <p className="text-slate-400 text-sm">Sword Drill v1.0</p>
         <p className="text-slate-400 text-sm">Gamified Bible Memorization</p>
         <p className="text-slate-400 text-sm mt-2">Firebase & GitHub integration ready</p>
       </div>
+
+      {/* Donation Section */}
+      <div className="bg-gradient-to-br from-amber-500/10 to-amber-600/10 border-2 border-amber-500/30 rounded-2xl p-6">
+        <div className="text-center mb-4">
+          <div className="text-4xl mb-3">🙏🏾</div>
+          <h3 className="text-2xl font-bold text-amber-400 mb-2">Support This Ministry</h3>
+        </div>
+        
+        <div className="bg-slate-800/50 rounded-xl p-4 mb-4">
+          <p className="text-slate-200 text-sm leading-relaxed mb-4">
+            ✨ <span className="font-bold text-amber-400">Fuel the Fire of the Word</span>
+          </p>
+          <p className="text-slate-300 text-sm leading-relaxed mb-3">
+            Every gift given to Sword Drill carries eternal impact. Your donation helps place Bibles into the hands of those seeking the light of God, bring aid to those in need, and keep this app alive for every soul hungry to know His Word.
+          </p>
+          <p className="text-slate-300 text-sm leading-relaxed mb-3">
+            When you give, you're not just supporting an app — you're helping to ignite faith, spread hope, and equip believers with the Sword of the Spirit across the world.
+          </p>
+          <p className="text-slate-300 text-sm leading-relaxed">
+            Together, we stand as torchbearers for the Kingdom — letting His Word cut through darkness and bring life to those who long for it. 🙏🏾⚔️
+          </p>
+        </div>
+
+        <a
+          href="https://www.paypal.com/paypalme/ychristdonations"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="block w-full bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-slate-900 font-bold py-4 px-6 rounded-xl transition-all transform hover:scale-105 text-center shadow-lg"
+        >
+          💝 Donate via PayPal
+        </a>
+        
+        <p className="text-center text-slate-400 text-xs mt-3">
+          ychristdonations@gmail.com
+        </p>
+      </div>
     </div>
   );
+
 
   if (!isLoggedIn) {
     return (

@@ -1,0 +1,2 @@
+import versesData from './data/verses.json';
+const VERSE_DATABASE = versesData;

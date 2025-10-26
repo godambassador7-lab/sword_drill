@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sword_drill/static/css/main.93a0497a.css",
-    "main.js": "/sword_drill/static/js/main.a56fdf52.js",
+    "main.js": "/sword_drill/static/js/main.64423e8f.js",
     "static/js/453.27765766.chunk.js": "/sword_drill/static/js/453.27765766.chunk.js",
     "index.html": "/sword_drill/index.html",
     "main.93a0497a.css.map": "/sword_drill/static/css/main.93a0497a.css.map",
-    "main.a56fdf52.js.map": "/sword_drill/static/js/main.a56fdf52.js.map",
+    "main.64423e8f.js.map": "/sword_drill/static/js/main.64423e8f.js.map",
     "453.27765766.chunk.js.map": "/sword_drill/static/js/453.27765766.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93a0497a.css",
-    "static/js/main.a56fdf52.js"
+    "static/js/main.64423e8f.js"
   ]
 }

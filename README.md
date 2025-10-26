@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Project Link: [https://github.com/YOUR-USERNAME/sword-drill](https://github.com/godambassador7-lab/sword-drill)
+Project Link: [https://github.com/godambassador7-lab/sword-drill](https://github.com/godambassador7-lab/sword-drill)
 
 ---
 

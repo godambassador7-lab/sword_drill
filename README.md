@@ -52,7 +52,7 @@ Sword Drill is a modern web application designed to help users memorize Bible ve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/sword-drill.git
+   git clone https://github.com/godambassador7/sword-drill.git
    cd sword-drill
    ```
 
